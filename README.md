@@ -10,5 +10,6 @@ PhD Theoretical Physics | Quantitative Research
 
 ## Interests
 - Statistical modelling
+- Sports modelling
 - Machine learning
 - Financial markets
