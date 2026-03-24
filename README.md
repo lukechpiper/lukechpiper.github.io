@@ -6,6 +6,7 @@ PhD Theoretical Physics | Quantitative Research
 
 - High-Frequency Market Microstructure Signal (Crypto)
 - Probabilistic Cricket Forecasting Model
+- Poisson football betting model
 
 ## Interests
 - Statistical modelling
